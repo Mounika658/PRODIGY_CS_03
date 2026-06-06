@@ -14,6 +14,7 @@ A Python-based Password Complexity Checker that evaluates password strength usin
 🛠️ Technologies Used
 
 🐍 Python 3
+
 📚 Regular Expressions (Regex)
 
 🎯 Learning Outcomes
